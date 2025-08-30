@@ -1,0 +1,30 @@
+# Core stack
+numpy==2.1.0
+pandas==2.2.2
+scikit-learn==1.5.1
+
+# Imbalanced data handling
+imbalanced-learn==0.12.3
+
+# Gradient boosting
+xgboost==2.1.1
+lightgbm==4.5.0
+
+# Deep learning
+torch==2.4.1
+torchvision==0.19.1
+
+# Interpretability
+shap==0.45.1
+
+# Visualization
+matplotlib==3.9.2
+seaborn==0.13.2
+
+# Notebooks
+jupyterlab==4.2.5
+ipykernel==6.29.5
+
+# Utilities
+tqdm==4.66.5
+joblib==1.4.2
